@@ -1,8 +1,8 @@
 #pragma once
-class String
+class string
 {
 public:
-	String();
-	~String();
+	string();
+	~string();
 };
 

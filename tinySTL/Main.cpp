@@ -1,6 +1,2 @@
-#include <windows.h>
 
-int main()
-{
-	system("pause");
-}
+void main(){}

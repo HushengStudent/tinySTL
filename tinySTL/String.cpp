@@ -1,12 +1,12 @@
-#include "String.h"
+#include "string.h"
 
 
 
-String::String()
+string::string()
 {
 }
 
 
-String::~String()
+string::~string()
 {
 }
